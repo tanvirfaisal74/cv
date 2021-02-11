@@ -1,0 +1,93 @@
+body{
+    
+   font-family: Manrope SemiBold ; 
+}
+.cv{
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+
+.personal-info{
+    border: 1px solid;
+  padding: 5px;
+    font-size: 25px;
+    width: 300px;
+    margin-left: 518px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.table1{
+     border: 1px solid;
+  padding: 5px;
+     font-size: 20px;
+    width: 1000px;
+    margin-left: 100px;
+    margin-top: 10px;
+    
+    
+}
+
+
+.table1 img{
+    height: 200px;
+    width: 175px;
+    float: right;
+    margin-top: -250px;
+    margin-right: 26px
+}
+
+.academic-info{
+    border: 1px solid;
+  padding: 5px;
+    font-size: 25px;
+    width: 300px;
+    margin-left: 500px;
+    margin-top: 15px;
+    text-align: center
+}
+
+
+.table2{
+    
+     font-size: 20px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+.table2 table {
+  border-collapse: collapse;
+    width: 1020px;
+    
+}
+
+.table2 td, th {
+  border: 1px solid black;
+  text-align: center;
+  padding: 17px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
